@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <!--class name="TestCases.LoginPage_Test"/-->
+      <!--class name="TestCases.DashboardPage_Test"/-->
+      <!--class name="TestCases.FilePageTest"/-->
+      <class name="TestCases.AddImagesPage_Test"/>
+      <class name="TestCases.Delete_Image_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
